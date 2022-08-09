@@ -3,3 +3,4 @@ django-filter
 djangorestframework
 PyJWT
 Pillow
+django-ckeditor

@@ -4,4 +4,4 @@ djangorestframework
 PyJWT
 Pillow
 django-ckeditor
-Django
+
